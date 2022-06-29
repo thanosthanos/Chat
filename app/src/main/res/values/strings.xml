@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="send_message_hint">It\'s a muzmatch !!</string>
+</resources>
